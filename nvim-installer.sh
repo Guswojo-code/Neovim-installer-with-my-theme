@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 pacman -S neovim
 echo "Downloaded base vim"
 mkdir "~/.config/"
